@@ -11,7 +11,7 @@ Github: <https://github.com/kjurek>
 Experience
 ----------
 
-02.2019 - Now
+02.2019 - 03.2020
 :   **Software Engineer, Flyr**
 
     Developing application which adjusts booking class and seat allocation to increase airlines revenue.
