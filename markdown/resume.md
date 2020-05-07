@@ -14,9 +14,9 @@ Experience
 02.2019 - 03.2020
 :   **Software Engineer, Flyr**
 
-    Developing application which adjusts booking class and seat allocation to increase airlines revenue.
+    Worked on application which adjusts booking class and seat allocation to increase airlines revenue.
 
-    Technology: Python, Docker, Kubernetes, Microservices, GCP, PostgreSQL, Linux
+    Technology: Python 3, Docker, Kubernetes, Microservices, GCP, PostgreSQL, Linux
 
 
 09.2015 - 02.2019
@@ -51,7 +51,7 @@ Technical Experience
 --------------------
 
 Skills
-:   C++11, Python, Linux, Bash, SQL
+:   C++17, Python, Linux, Bash, SQL
 
 Tools
 :   docker, kubernetes, cmake, gdb, git, ssh
