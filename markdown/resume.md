@@ -16,17 +16,15 @@ Experience
 
     Worked on application which adjusts booking class and seat allocation to increase airlines revenue.
 
-    Technology: Python 3, Docker, Kubernetes, Microservices, GCP, PostgreSQL, Linux
+    **Python 3, Docker, Kubernetes, Microservices, GCP, PostgreSQL, Linux**
 
 
 09.2015 - 02.2019
 :   **Software Engineer, Sabre**
 
-    Developed and maintained a travel fare aggregator responsible for matching flights with lowest fares.
+    Developed and maintained an airfare search engine.
 
-    Developed web service responsible for fetching shopping brands data.
-
-    Technology: C++, Java, Python, Linux
+    **C++, Java, Python, Linux**
 
 
 06.2014 - 03.2015
@@ -34,17 +32,17 @@ Experience
 
     Developed dispatch console application and improved diagnostic tools.
 
-    Created test framework which simulated console operator actions.
+    Created a test framework which simulated console operator actions.
 
-    Technology: C++, Java, Windows
+    **C++, Java, Windows**
 
 
 07.2013 - 09.2013
 :   **Software Engineer Intern, Nokia**
 
-    Developed testing framework for component which managed resources on BTS.
+    Developed a test framework for a software which managed resources on BTS.
 
-    Technology: C++, Python, Linux
+    **C++, Python, Linux**
 
 
 Technical Experience
