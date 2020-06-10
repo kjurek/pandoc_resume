@@ -16,25 +16,51 @@ Experience
 
     Worked on application which adjusts booking class and seat allocation to increase airlines revenue.
 
-    **Python 3, Docker, Kubernetes, Microservices, GCP, PostgreSQL, Linux**
+    Responsibilities:
+
+    - Deliver new features according to requirements
+    - Investigate and fix bugs
+    - Maintain and refactor existing code
+	- Analyse requirements and create tasks in JIRA
+    - Optimize CPU and Memory utilization
+	- Code review
+    - Pager duty
+
+	Technology stack: **Python 3, Flask, Docker, Kubernetes, Microservices, GCP, PostgreSQL, Linux**
 
 
 09.2015 - 02.2019
 :   **Software Engineer, Sabre**
 
-    Developed and maintained an airfare search engine.
+    Developed and maintained an airfare search engine, mission critical, scalable, multi-threaded C++ application handling world scale traffic.
 
-    **C++, Java, Python, Linux**
+    Responsibilities:
+
+    - Design, implement and test new features in C++17
+    - Investigate and fix bugs
+    - Maintain and refactor existing code
+    - Write integration tests in Python
+	- Code review
+    - Pager duty
+
+    Technology stack: **C++17, Python, RedHat**
 
 
 06.2014 - 03.2015
 :   **Junior Software Developer, Motorola**
 
     Developed dispatch console application and improved diagnostic tools.
-
     Created a test framework which simulated console operator actions.
 
-    **C++, Java, Windows**
+	Responsibilities:
+
+    - Design, implement and test new features in Dispatch Console application using C++
+    - Investigate and fix bugs
+	- Code review
+    - Develop diagnostic tools in C++
+    - Develop system testing framework in Java
+
+    Technology stack: **C++, Java, Windows**
 
 
 07.2013 - 09.2013
@@ -42,10 +68,15 @@ Experience
 
     Developed a test framework for a software which managed resources on BTS.
 
-    **C++, Python, Linux**
+    Responsibilities:
+
+    - Port tests from TTCN to C++ using gtest and gmock libraries
+    - Create python script which generates C++ test fixtures using LLVM
+
+    Technology stack: **C++, Python, Linux**
 
 
-Technical Experience
+Skills
 --------------------
 
 Skills
