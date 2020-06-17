@@ -18,7 +18,7 @@ Experience
 
     Responsibilities:
 
-    - Deliver new features according to requirements
+    - Design, implement and test new features in Python 3
     - Investigate and fix bugs
     - Maintain and refactor existing code
 	- Analyse requirements and create tasks in JIRA
@@ -26,7 +26,7 @@ Experience
 	- Code review
     - Pager duty
 
-	Technology stack: **Python 3, Flask, Docker, Kubernetes, Microservices, GCP, PostgreSQL, Linux**
+	Technology stack: **Python 3, Flask, Docker, Kubernetes, Microservices, GCP, BigQuery, PostgreSQL, Redis, Elasticsearch, Kafka, Linux**
 
 
 09.2015 - 02.2019
@@ -37,9 +37,9 @@ Experience
     Responsibilities:
 
     - Design, implement and test new features in C++17
+    - Write integration tests in Python
     - Investigate and fix bugs
     - Maintain and refactor existing code
-    - Write integration tests in Python
 	- Code review
     - Pager duty
 
@@ -54,7 +54,7 @@ Experience
 
 	Responsibilities:
 
-    - Design, implement and test new features in Dispatch Console application using C++
+    - Design, implement and test new features in C++
     - Investigate and fix bugs
 	- Code review
     - Develop diagnostic tools in C++
@@ -71,7 +71,7 @@ Experience
     Responsibilities:
 
     - Port tests from TTCN to C++ using gtest and gmock libraries
-    - Create python script which generates C++ test fixtures using LLVM
+    - Create python script which generates C++ test fixtures from existing code using LLVM
 
     Technology stack: **C++, Python, Linux**
 
