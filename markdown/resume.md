@@ -21,12 +21,12 @@ Experience
     - Design, implement and test new features in Python 3
     - Investigate and fix bugs
     - Maintain and refactor existing code
-	- Analyse requirements and create tasks in JIRA
+    - Analyse requirements and create tasks in JIRA
     - Optimize CPU and Memory utilization
-	- Code review
+    - Code review
     - Pager duty
 
-	Technology stack: **Python 3, Flask, Docker, Kubernetes, Microservices, GCP, BigQuery, PostgreSQL, Redis, Elasticsearch, Kafka, Linux**
+    Technology stack: **Python 3, Flask, Docker, Kubernetes, Microservices, GCP, BigQuery, PostgreSQL, Redis, Elasticsearch, Kafka, Linux**
 
 
 09.2015 - 02.2019
@@ -40,10 +40,10 @@ Experience
     - Write integration tests in Python
     - Investigate and fix bugs
     - Maintain and refactor existing code
-	- Code review
+    - Code review
     - Pager duty
 
-    Technology stack: **C++17, Python, RedHat**
+    Technology stack: **C++17, Boost, Python, RedHat, Oracle DB**
 
 
 06.2014 - 03.2015
@@ -52,13 +52,13 @@ Experience
     Developed dispatch console application and improved diagnostic tools.
     Created a test framework which simulated console operator actions.
 
-	Responsibilities:
+    Responsibilities:
 
     - Design, implement and test new features in C++
-    - Investigate and fix bugs
-	- Code review
     - Develop diagnostic tools in C++
     - Develop system testing framework in Java
+    - Investigate and fix bugs
+    - Code review
 
     Technology stack: **C++, Java, Windows**
 
