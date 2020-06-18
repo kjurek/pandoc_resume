@@ -14,7 +14,7 @@ Experience
 02.2019 - 03.2020
 :   **Software Engineer, Flyr**
 
-    Worked on application which adjusts booking class and seat allocation to increase airlines revenue.
+    Worked on a software which adjusts booking class and seat allocation to increase airlines revenue.
 
     Responsibilities:
 
@@ -49,7 +49,7 @@ Experience
 06.2014 - 03.2015
 :   **Junior Software Developer, Motorola**
 
-    Developed dispatch console application and improved diagnostic tools.
+    Developed a dispatch console application and improved diagnostic tools.
     Created a test framework which simulated console operator actions.
 
     Responsibilities:
