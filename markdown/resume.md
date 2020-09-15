@@ -3,15 +3,24 @@ Karol Jurek
 
 Email: <kjurek123@gmail.com>
 
-Github: <https://github.com/kjurek>
-
-
 ----
 
 Experience
 ----------
 
-02.2019 - 03.2020
+07.2020 - Present
+:   **Senior Software Developer, Luxoft**
+
+    Working on a high frequency trading application.
+
+    - Implement new features in C++
+    - Move project from Makefiles to CMake
+    - Analyse performance and memory leaks
+    - Add missing documentation
+
+    Technology stack: **C++17, Python, RedHat, Boost**
+
+02.2019 - 05.2020
 :   **Software Engineer, Flyr**
 
     Worked on a software which adjusts booking class and seat allocation to increase airlines revenue.
@@ -26,7 +35,7 @@ Experience
     - Code review
     - Pager duty
 
-    Technology stack: **Python 3, Flask, Docker, Kubernetes, Microservices, GCP, BigQuery, PostgreSQL, Redis, Elasticsearch, Kafka, Linux**
+    Technology stack: **Python 3, Flask, SQLAlchemy, Kubernetes, GCP, BigQuery, Redis**
 
 
 09.2015 - 02.2019
