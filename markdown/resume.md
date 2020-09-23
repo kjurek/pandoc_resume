@@ -18,7 +18,7 @@ Experience
     - Analyse performance and memory leaks
     - Add missing documentation
 
-    Technology stack: **C++17, Python, RedHat, Boost**
+    Technology stack: **C++17, RedHat, Boost**
 
 02.2019 - 05.2020
 :   **Software Engineer, Flyr**
