@@ -11,23 +11,21 @@ Experience
 07.2020 - Present
 :   **Senior Software Developer, Luxoft**
 
-    Working on a high frequency trading application.
+    Working on a high frequency trading application which allows clients to execute their trading strategy with minimal latency and risk management.
 
-    - Implement new features in C++
-    - Move project from Makefiles to CMake
-    - Analyse performance and memory leaks
-    - Add missing documentation
+    - Analyse project source code and infrastructure
+    - Analyse memory leaks and performance
+    - Create plan for code, tests, infrastructure and build system optimization
+    - Create documentation with class diagrams and basic flow between components
 
     Technology stack: **C++17, RedHat, Boost**
 
 02.2019 - 05.2020
 :   **Software Engineer, Flyr**
 
-    Worked on a software which adjusts booking class and seat allocation to increase airlines revenue.
+    Worked on an application which was responsible for applying business rules and delivering optimized airplane seat prices to multiple clients.
 
-    Responsibilities:
-
-    - Design, implement and test new features in Python 3
+    - Create and maintain HTTP REST micro services in Python 3 using Flask
     - Investigate and fix bugs
     - Maintain and refactor existing code
     - Analyse requirements and create tasks in JIRA
@@ -35,15 +33,13 @@ Experience
     - Code review
     - Pager duty
 
-    Technology stack: **Python 3, Flask, SQLAlchemy, Kubernetes, GCP, BigQuery, Redis**
+    Technology stack: **Python 3, Flask, SQLAlchemy, Kubernetes, GCP, BigQuery, Redis, Sentry**
 
 
 09.2015 - 02.2019
 :   **Software Engineer, Sabre**
 
     Developed and maintained an airfare search engine, mission critical, scalable, multi-threaded C++ application handling world scale traffic.
-
-    Responsibilities:
 
     - Design, implement and test new features in C++17
     - Write integration tests in Python
@@ -61,11 +57,9 @@ Experience
     Developed a dispatch console application and improved diagnostic tools.
     Created a test framework which simulated console operator actions.
 
-    Responsibilities:
-
     - Design, implement and test new features in C++
-    - Develop diagnostic tools in C++
-    - Develop system testing framework in Java
+    - Create diagnostic tools in C++
+    - Create system testing framework in Java
     - Investigate and fix bugs
     - Code review
 
@@ -76,8 +70,6 @@ Experience
 :   **Software Engineer Intern, Nokia**
 
     Developed a test framework for a software which managed resources on BTS.
-
-    Responsibilities:
 
     - Port tests from TTCN to C++ using gtest and gmock libraries
     - Create python script which generates C++ test fixtures from existing code using LLVM
