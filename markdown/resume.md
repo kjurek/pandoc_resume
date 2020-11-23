@@ -8,19 +8,19 @@ Email: <kjurek123@gmail.com>
 Experience
 ----------
 
-07.2020 - Present
+07.2020 - 10.2020
 :   **Senior Software Developer, Luxoft**
 
-    Working on a high frequency trading application which allows clients to execute their trading strategy with minimal latency and risk management.
+    Worked on a high frequency trading application which allows clients to execute their trading strategy with minimal latency and risk.
 
     - Analyse project source code and infrastructure
     - Analyse memory leaks and performance
-    - Create plan for code, tests, infrastructure and build system optimization
+    - Create a plan for code, tests, infrastructure and build system optimization
     - Create documentation with class diagrams and basic flow between components
 
     Technology stack: **C++17, RedHat, Boost**
 
-02.2019 - 05.2020
+02.2019 - 04.2020
 :   **Software Engineer, Flyr**
 
     Worked on an application which was responsible for applying business rules and delivering optimized airplane seat prices to multiple clients.
